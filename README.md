@@ -1,2 +1,2 @@
 # TheISCTEBay
-Programação Concorrente e Distribuída
+Projeto de Programação Concorrente e Distribuída
